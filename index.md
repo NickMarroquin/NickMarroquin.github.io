@@ -4,12 +4,12 @@ My GitHub page is: https://github.com/NickMarroquin
 
 -------------------------
 
-### Welcome to my GitHub page, My name is Nicolas Marroquin and I am a student at CSUF
+## Welcome to my GitHub page, My name is Nicolas Marroquin and I am a student at CSUF
 - I am majoring in Computer Engineering and I plan on graduating in 2028
 
 
 
-## My favorite CPSC 120L Lab Projects
+### My favorite CPSC 120L Lab Projects
 
 
 **Lab-01**
@@ -26,7 +26,7 @@ though it was just changing it to say "Hello (your name)."
 > Lab 3 part 1 was another favorite of mine. Being in a group and working together on the lab was very interesting because we all
 had different ideas on how to approach it. I liked learning as a team and writing C++ functions. I learned how to compile and
 clean up our code using a linter. It taught me how important it is to fix small formatting mistakes early on, because it's a lot
-more work later on
+more work later on.
 
 
 **Lab-06**
