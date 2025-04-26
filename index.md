@@ -1,12 +1,11 @@
 
 # Nicolas Marroquin's Portfolio
-my github page is: https://github.com/NickMarroquin
+My GitHub page is: https://github.com/NickMarroquin
 
 -------------------------
 
-##### Welcome to my GitHub page, My name is Nicolas Marroquin and I am a student at CSUF
-
-**I am majoring in Computer Engineering and I plan on graduating in 2028**
+### Welcome to my GitHub page, My name is Nicolas Marroquin and I am a student at CSUF
+- I am majoring in Computer Engineering and I plan on graduating in 2028
 
 
 
