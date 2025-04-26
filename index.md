@@ -5,7 +5,7 @@ My GitHub page is: https://github.com/NickMarroquin
 -------------------------
 
 ## Welcome to my GitHub page, My name is Nicolas Marroquin and I am a student at CSUF
-- I am majoring in Computer Engineering and I plan on graduating in 2028
+    I am majoring in Computer Engineering and I plan on graduating in 2028
 
 
 
@@ -33,4 +33,4 @@ more work later on.
 
 > Lab 6, parts 1 and 2, were some of my favorite labs because it felt like our code could be used for something useful. I liked
 how we made a program relating to blackjack. I learned how to use vectors, functions, and how to check if a user inputs something
-wrong in. This lab helped me understand C++ better. 
+wrong in. This lab helped me understand C++ better and overall showed me how our programs can have real world applications to solve problems.
